@@ -1,16 +1,5 @@
-# contact_list_app
+![image](https://github.com/Danbir54/contact_list_app/assets/59988668/bb018c02-bf43-4daa-aafd-a909ffddac3e)
 
-A new Flutter project.
+![image](https://github.com/Danbir54/contact_list_app/assets/59988668/be08e50c-38c7-4e62-84f5-cc8e3762cba9)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Danbir54/contact_list_app/assets/59988668/07342603-085f-4299-8a43-ef15d597e3f2)
